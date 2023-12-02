@@ -1,0 +1,35 @@
+*{
+    margin :0;
+    padding: 0;
+}
+/* Header area start */
+.hedar-area {
+    background-color: rgb(255, 236, 239);
+  }
+
+  button {
+    background-color: burlywood;
+    margin-top: 10px;
+    padding: 6px;
+    border-radius: 10px;
+    text-align: center;
+    border-block: blanchedalmond;
+  }
+  .header-wrapper {
+    display: flex;
+    justify-content: center;
+  }
+  img {
+    height: 600px;
+    margin-left:200px;
+  }
+  .header-text{
+    margin: auto;
+  }
+  
+h1 {
+    display: block;
+    font-size: 40px;
+    font-weight: bold;
+  }
+  /* Header area end  */
