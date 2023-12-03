@@ -91,5 +91,22 @@ p {
   padding-top: 50px;
   align-items: center;
 }
-
   /* hot-deal-area-end */
+  /* instagram area start */
+  .instagram-text {
+    align-content: center;
+    display: block;
+    margin-left: 40%;
+    font-weight: bold;
+    margin-top: 70px;
+  }
+  
+.instagram-img {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 50px;
+  gap: 20px;
+  height: 300px;
+}
+
+  /* instagram area end */
