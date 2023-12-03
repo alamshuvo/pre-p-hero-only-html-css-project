@@ -108,5 +108,33 @@ p {
   gap: 20px;
   height: 300px;
 }
-
   /* instagram area end */
+  /* subscribe me area start */
+  .subscribe-me-wrapper{
+    background-image: url(asset/subscribe.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 100PX;
+    padding-bottom: 60px;
+    width: 80%;
+    margin-left: 300px;
+    width: 750px;
+  }
+  
+.subscribe-me-area {
+  margin-top: 200px;
+}
+
+.infut-emai {
+  font-size: 10px;
+  padding: 5px 130px 5px 10px;
+}
+
+.submit {
+  background-color: chartreuse;
+  text-align: center;
+  padding: 5px 50px 5px 5px;
+  border-radius: 10px 10px 10px 10px;
+}
+  /* subscribe me area end */
+  
