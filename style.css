@@ -80,3 +80,16 @@ p {
   margin-top: 20px;
 }
   /* services area end */
+
+  /* hot-deal-area-start */
+  
+.hot-deal-area-wrapper {
+  display: flex;
+  justify-content: space-around;
+  background-color: beige;
+  margin-top: 40px;
+  padding-top: 50px;
+  align-items: center;
+}
+
+  /* hot-deal-area-end */
